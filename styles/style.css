@@ -1,3 +1,11 @@
-h1{ 
-    background-color: green;
+h1{
+    color: yellow;
+}
+
+p{
+    color: blue;
+}
+
+table{
+    color: blue;
 }
